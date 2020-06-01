@@ -1,1 +1,22 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+        h1{
+        text-align:right;
+         background-color:pink;   
+        border-style:solidv
+        }
+        p{
+         background-color:grey;   
+        } 
+    </style>
+        <title>Page Title</title>
+        
+    </head>
+    <body>
+      <h1>Love Lifer</h1>  
+      <p>Chal waha jaate hai chal waha jaate hai pyar karne chalo hum vaha jaate hai.S ome day i will.let you go.Chal waha jaate hai chal waha jaate hai pyar karne chalo hum vaha jaate hai.S ome day i will.let you go</p>
+    </body>
+</html>
